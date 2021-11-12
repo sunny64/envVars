@@ -13,5 +13,7 @@ body {
   font-size: 2rem;
   color: #fff;
   background-color: #000;
-  font-weight: bold
+  font-weight: bold;
+  padding: 2rem;
+  margin-left: 10rem
 }
